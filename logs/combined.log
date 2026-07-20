@@ -1,0 +1,5 @@
+{"level":"error","message":{"error":"","msg":"Redis error occurred"},"timestamp":"2026-07-19T11:25:56.434Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2026-07-19T11:39:09.639Z"}
+{"level":"info","message":{"duration":"419ms","ip":"::1","method":"POST","status":401,"url":"/api/auth/login","user":"anonymous"},"timestamp":"2026-07-19T11:47:07.831Z"}
+{"level":"info","message":{"duration":"407ms","ip":"::1","method":"POST","status":401,"url":"/api/auth/login","user":"anonymous"},"timestamp":"2026-07-19T11:47:32.784Z"}
+{"level":"info","message":{"duration":"462ms","ip":"::1","method":"POST","status":401,"url":"/api/auth/login","user":"anonymous"},"timestamp":"2026-07-19T11:47:42.811Z"}
